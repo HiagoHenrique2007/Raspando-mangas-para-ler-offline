@@ -1,4 +1,5 @@
 # Raspando novels para ler offline em um PDF
+## Obs: so funciona para o site: https://www.webnovel.com/
 
 ## Objetivo:
 Raspar um determinado numero de capitulos de alguma light novel, pegar o conteudo e criar um pdf com o conteudo para ler offline.
