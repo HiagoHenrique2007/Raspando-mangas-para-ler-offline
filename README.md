@@ -1,4 +1,4 @@
-# Raspando mangás do site https://mangaonline.biz/ para ler offline
+# Raspando novels para ler offline em um PDF
 
 ## Objetivo:
 Raspar um determinado numero de capitulos de algum mangá, pegar as imagens e criar um pdf com as imagens para ler offline. Não usarei para nenhum fim de beneficio proprio, apenas para aprendizado de web scraping.
@@ -11,6 +11,6 @@ O scraper será execultado, ele pedira a url inicial que contém a lista de capi
 - [ ] get_html
 - [ ] get_all_links
 - [ ] get_all_caps
-- [ ] get_all_imgs  
+- [ ] get_novel_content  
 - [ ] criar o sistema de CLI com argparser
 ... 
